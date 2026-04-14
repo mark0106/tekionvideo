@@ -1,0 +1,10 @@
+{
+  "name": "tekionvideo",
+  "version": "1.0.0",
+  "description": "Twilio Video app with automatic recording and Firebase Storage",
+  "scripts": {
+    "start": "twilio serverless:start",
+    "deploy": "twilio serverless:deploy"
+  },
+  "dependencies": {}
+}
